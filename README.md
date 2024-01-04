@@ -1,14 +1,7 @@
 #  h1 Comecavetest
 ## h2
-### h3
-**Drei Ringe** den Elbenkönigen hoch im Licht,
-**sieben** den Zwergenherrschern in ihren Hallen aus Stein,
-Den Sterblichen, ewig dem Tode verfallen, **neun**,
-**Einer** dem Dunklen Herrn auf dunklem Thron
-Im Lande Mordor, wo die Schatten dröhn.
-Ein Ring, sie zu knechten, sie alle zu finden,
-Ins Dunkel zu treiben und ewig zu binden
-Im Lande Mordor, wo die Schatten dröhn
+### Star Trek
+„Der **Weltraum**, unendliche Weiten. Wir schreiben das Jahr 2200. Dies sind die Abenteuer des Raumschiffs Enterprise, das mit seiner 400 Mann starken Besatzung 5 Jahre lang unterwegs ist, um neue Welten zu erforschen, neues Leben und neue Zivilisationen. Viele Lichtjahre von der Erde entfernt, dringt die Enterprise in Galaxien vor, die nie ein Mensch zuvor gesehen hat.“
 
 1. Thema
 2. Thema
